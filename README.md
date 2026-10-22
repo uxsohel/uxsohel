@@ -1,36 +1,18 @@
-&lt;div align=&quot;center&quot;&gt;
+# 👋 Hi, I'm Md Sohel Rana
 
 
 
-# Hey there, I'm Md Sohel Rana 👋
+### 🎨 UI/UX Designer · 📱 Flutter Developer · 🧩 Design Systems Architect
+
+*Bridging User-Centered Product Strategy in Figma with Pixel-Perfect Cross-Platform Apps in Flutter and Dart*
 
 
 
-### **UI/UX Designer & Flutter Developer**
-
-*Bridging User-Centered Product Design with Pixel-Perfect Cross-Platform Flutter Development*
+📍 **Rajshahi, Bangladesh** · 💼 **UI/UX Designer at PRAN-RFL Group** · 🎓 **Google UX Design Certified**
 
 
 
-📍 **Rajshahi, Bangladesh** &nbsp;|&nbsp; 💼 **UI/UX Designer @ PRAN-RFL Group**
-
-
-
-&lt;p align=&quot;center&quot;&gt;
-
-  &lt;a href=&quot;https://sohelranasr.framer.website/&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/Portfolio-sohelranasr.framer.website-0055FF?style=for-the-badge&amp;logo=framer&amp;logoColor=white&quot; alt=&quot;Portfolio&quot; /&gt;&lt;/a&gt;
-
-  &lt;a href=&quot;https://linkedin.com/in/sohelvector&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/LinkedIn-sohelvector-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&quot; alt=&quot;LinkedIn&quot; /&gt;&lt;/a&gt;
-
-  &lt;a href=&quot;https://dribbble.com/sohelvector&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/Dribbble-sohelvector-EA4C89?style=for-the-badge&amp;logo=dribbble&amp;logoColor=white&quot; alt=&quot;Dribbble&quot; /&gt;&lt;/a&gt;
-
-  &lt;a href=&quot;mailto:rtrmdsohelrana@gmail.com&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/Email-rtrmdsohelrana%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&quot; alt=&quot;Email&quot; /&gt;&lt;/a&gt;
-
-&lt;/p&gt;
-
-
-
-&lt;/div&gt;
+[](https://sohelranasr.framer.website/) [](https://linkedin.com/in/sohelvector) [](https://dribbble.com/sohelvector) [](mailto:rtrmdsohelrana@gmail.com)
 
 
 
@@ -38,23 +20,11 @@
 
 
 
-## 🚀 About Me
+| 🏆 **4+ Years** | 🏢 **500+ Enterprise Users** | 🧩 **80+ Figma Components** | ⚡ **40% Faster Handoff** |
 
+| :---: | :---: | :---: | :---: |
 
-
-I'm a **UI/UX Designer & Flutter Developer** with **4+ years of experience** designing enterprise, SaaS, and mobile products that simplify complex workflows and deliver measurable business impact. I specialize in taking digital products from **user research, wireframing, and scalable Figma design systems** all the way to **clean, responsive, cross-platform Flutter applications**.
-
-
-
-- 🔭 **Currently working on:** Enterprise & role-based dashboard systems (**SPRO, CRM, and manufacturing automation**) at **PRAN-RFL Group** alongside cross-platform **Flutter & Dart** mobile applications.
-
-- 🎨 **Design Systems & Handoff:** Built and maintained an **80+ component Figma library** across 3+ enterprise products, cutting design-to-development handoff time by **40%**.
-
-- 📱 **Design-to-Code Focus:** Crafting smooth micro-interactions, adaptive layouts, and clean widget architectures in **Flutter & Dart**.
-
-- 🎓 **Certified:** *Foundations of User Experience (UX) Design* — **Google / Coursera** (Nov 2023).
-
-- 💬 **Ask me about:** Product Design, UX Strategy, Scalable Design Systems, Enterprise Dashboards, Flutter UI Architecture, and Dart.
+| Product and UI/UX Experience | SPRO and CRM Systems at PRAN-RFL | Scalable Design System Library | From Figma Prototype to Flutter Code |
 
 
 
@@ -62,87 +32,15 @@ I'm a **UI/UX Designer & Flutter Developer** with **4+ years of experience** des
 
 
 
-## 🛠️ Tech Stack & Design Toolkit
+## ✨ What I Do
 
 
 
-### **Mobile & Frontend Development**
-
-&lt;p&gt;
-
-  &lt;img src=&quot;https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white&quot; alt=&quot;Flutter&quot; /&gt;
-
-  &lt;img src=&quot;https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=white&quot; alt=&quot;Dart&quot; /&gt;
-
-  &lt;img src=&quot;https://img.shields.io/badge/Material_Design_3-757575?style=for-the-badge&amp;logo=materialdesign&amp;logoColor=white&quot; alt=&quot;Material Design 3&quot; /&gt;
-
-  &lt;img src=&quot;https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white&quot; alt=&quot;HTML5&quot; /&gt;
-
-  &lt;img src=&quot;https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white&quot; alt=&quot;CSS3&quot; /&gt;
-
-  &lt;img src=&quot;https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white&quot; alt=&quot;Git&quot; /&gt;
-
-  &lt;img src=&quot;https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&quot; alt=&quot;GitHub&quot; /&gt;
-
-&lt;/p&gt;
-
-
-
-### **UI/UX Design & Prototyping**
-
-&lt;p&gt;
-
-  &lt;img src=&quot;https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white&quot; alt=&quot;Figma&quot; /&gt;
-
-  &lt;img src=&quot;https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&amp;logo=framer&amp;logoColor=white&quot; alt=&quot;Framer&quot; /&gt;
-
-  &lt;img src=&quot;https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&amp;logo=adobeillustrator&amp;logoColor=white&quot; alt=&quot;Adobe Illustrator&quot; /&gt;
-
-  &lt;img src=&quot;https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&amp;logo=adobephotoshop&amp;logoColor=white&quot; alt=&quot;Adobe Photoshop&quot; /&gt;
-
-  &lt;img src=&quot;https://img.shields.io/badge/Wix_Studio-0C6EFC?style=for-the-badge&amp;logo=wix&amp;logoColor=white&quot; alt=&quot;Wix Studio&quot; /&gt;
-
-  &lt;img src=&quot;https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&amp;logo=googleanalytics&amp;logoColor=white&quot; alt=&quot;Google Analytics&quot; /&gt;
-
-&lt;/p&gt;
-
-
-
-### **Core Competencies**
-
-| Domain | Capabilities |
-
-| :--- | :--- |
-
-| **Product & UX Strategy** | User Research, Usability Testing, Information Architecture, End-to-End User Flows, UX Audits |
-
-| **UI & Design Systems** | Scalable Component Libraries, Design Tokens, Interactive Prototyping, SaaS & KPI Dashboards, Dark/Light Mode Systems |
-
-| **Flutter Engineering** | Pixel-Perfect Figma-to-Flutter Implementation, Responsive & Adaptive Layouts, Custom Reusable Widgets, State Management, Clean Code |
-
-
-
----
-
-
-
-## 🏆 Featured Product & UX Case Studies
-
-
-
-| Project | Role & Platform | Key Impact & Highlights |
+| 🎨 **1. Product and UI/UX Design** | 🧩 **2. Scalable Design Systems** | 📱 **3. Flutter App Engineering** |
 
 | :--- | :--- | :--- |
 
-| **SPRO & Enterprise CRM Suite** *(PRAN-RFL Group)* | UI/UX Designer · Enterprise Web & Mobile | Designed role-based KPI dashboards and workflow automation tools for **500+ users** across sales, operations, and management; reduced reporting time by **30%** and boosted operational efficiency by **25%**. |
-
-| **Franchise Laundry Service Platform** *(IT Scholar)* | Lead UI/UX Designer · Mobile App & SaaS | Architected end-to-end booking flows, real-time order tracking, and multi-location franchise management; reduced booking abandonment by **22%**. |
-
-| **SaaS Lead Management & Client Portals** *(IT Scholar)* | UI/UX Designer · Responsive Web & Mobile | Redesigned interaction flows and developer-ready Figma design systems across **5+ SaaS products**, improving task completion by **28%** and reducing handoff errors by **35%**. |
-
-
-
-👉 **Explore full interactive case studies on my [Portfolio Website](https://sohelranasr.framer.website/) and [Dribbble](https://dribbble.com/sohelvector).**
+| End-to-end UX research, user flows, wireframing, and high-craft interfaces for enterprise ERP, SaaS dashboards, and mobile apps. | Multi-product Figma component libraries, design tokens, dark/light themes, and developer-ready specs that cut handoff friction by 35–40%. | Translating Figma designs into responsive, smooth cross-platform Android, iOS, and Web apps using Flutter, Dart, and clean architecture. |
 
 
 
@@ -150,39 +48,35 @@ I'm a **UI/UX Designer & Flutter Developer** with **4+ years of experience** des
 
 
 
-## 💼 Experience Snapshot
+## 🚀 Featured Portfolio Case Studies
 
 
 
-- **UI/UX Designer — PRAN-RFL Group** *(Aug 2025 – Present · Rajshahi, Bangladesh)*  
+| 🏢 **SPRO and Enterprise CRM Suite** | 🧺 **Franchise Laundry Service Platform** |
 
-  Leading UI/UX design for enterprise dashboards, CRM systems, SPRO, and manufacturing automation tools, backed by an 80+ component Figma design system.
+| :--- | :--- |
 
-- **UI/UX Designer — IT Scholar** *(Mar 2024 – Jul 2025 · Remote)*  
+| **Role:** UI/UX Designer · **PRAN-RFL Group** *(Enterprise Web and Mobile)* | **Role:** Lead UI/UX Designer · **IT Scholar** *(Mobile App and SaaS)* |
 
-  Owned end-to-end UX/UI for 5+ SaaS and mobile platforms, conducting usability testing and building developer-ready design systems.
+| Designed multi-user, role-based KPI dashboards, CRM workflows, and manufacturing automation tools serving **500+ sales, operations, and management users**. | Architected end-to-end mobile order flows, real-time delivery tracking, and multi-location franchise operations dashboards. |
 
-- **Graphics & UI Designer — Mango Vaiya** *(Jun 2023 – Feb 2024 · Remote)*  
+| 📈 **Impact:** **30% faster** reporting workflows · **25% higher** operational efficiency | 📈 **Impact:** **22% lower** booking abandonment · Seamless multi-branch tracking |
 
-  Designed responsive web interfaces and cohesive brand visual systems across web and social channels.
-
-
-
----
+| [](https://sohelranasr.framer.website/) | [](https://sohelranasr.framer.website/) |
 
 
 
-## 📊 GitHub Activity & Streak
+| 📊 **SaaS Lead Management and Client Portals** | 📱 **Flutter UI Kits and Cross-Platform Apps** |
 
+| :--- | :--- |
 
+| **Role:** Sole UI/UX Designer · **IT Scholar** *(Responsive Web and Mobile)* | **Role:** Flutter Developer and UI/UX Engineer *(Open Source)* |
 
-&lt;div align=&quot;center&quot;&gt;
+| Owned end-to-end UX audits, interaction flows, and developer-ready Figma design systems across **5+ service and SaaS platforms**. | Building modular Flutter widget libraries, adaptive responsive screens, and custom animations from my Figma design systems. |
 
-  &lt;img height=&quot;165&quot; src=&quot;https://github-readme-stats.vercel.app/api?username=uxsohel&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;icon_color=1F6FEB&amp;text_color=C9D1D9&quot; alt=&quot;uxsohel GitHub Stats&quot; /&gt;
+| 📈 **Impact:** **28% higher** task completion · **35% fewer** implementation errors | 📈 **Focus:** Material 3 · Custom Widgets · State Management · REST APIs |
 
-  &lt;img height=&quot;165&quot; src=&quot;https://streak-stats.demolab.com?user=uxsohel&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=58A6FF&amp;fire=58A6FF&amp;currStreakLabel=58A6FF&quot; alt=&quot;GitHub Streak&quot; /&gt;
-
-&lt;/div&gt;
+| [](https://dribbble.com/sohelvector) | [](https://github.com/uxsohel?tab=repositories) |
 
 
 
@@ -190,27 +84,71 @@ I'm a **UI/UX Designer & Flutter Developer** with **4+ years of experience** des
 
 
 
-## 🤝 Let's Connect & Collaborate
+## 🛠️ Tech Stack and Design Toolkit
 
 
 
-I'm always open to collaborating on **Flutter mobile apps, SaaS product design, scalable design systems, and open-source UI kits**.
+### **Mobile and Frontend Development**
+
+       
 
 
 
-- 🌐 **Portfolio:** [sohelranasr.framer.website](https://sohelranasr.framer.website/)
+### **UI/UX Design and Prototyping**
 
-- 💼 **LinkedIn:** [linkedin.com/in/sohelvector](https://linkedin.com/in/sohelvector)
-
-- 🎨 **Dribbble:** [dribbble.com/sohelvector](https://dribbble.com/sohelvector)
-
-- ✉️ **Email:** [rtrmdsohelrana@gmail.com](mailto:rtrmdsohelrana@gmail.com)
+       
 
 
 
-&lt;div align=&quot;center&quot;&gt;
+---
 
-  &lt;sub&gt;Designed &amp; crafted with ❤️ by &lt;b&gt;Md Sohel Rana (@uxsohel)&lt;/b&gt;&lt;/sub&gt;
 
-&lt;/div&gt;
+
+## 💼 Experience and Career Timeline
+
+
+
+| Timeline | Role and Organization | Key Contributions |
+
+| :--- | :--- | :--- |
+
+| **Aug 2025 – Present** | **UI/UX Designer** · **PRAN-RFL Group** *(Rajshahi, Onsite)* | Designing enterprise dashboards (**SPRO, CRM, manufacturing automation**) for 500+ users; built an **80+ component Figma library** cutting design-to-dev time by **40%**. |
+
+| **Mar 2024 – Jul 2025** | **UI/UX Designer (Sole)** · **IT Scholar** *(Remote)* | Owned end-to-end UX for **5+ SaaS and mobile platforms** (booking systems, CRM, laundry franchise app); boosted task completion by **28%**. |
+
+| **Jun 2023 – Feb 2024** | **Graphics and UI Designer** · **Mango Vaiya** *(Remote)* | Designed responsive web UI and cohesive visual branding systems for digital campaigns. |
+
+| **Nov 2023** | **Foundations of UX Design** · **Google / Coursera** | Professional certification in user-centered research, wireframing, and usability testing. |
+
+
+
+---
+
+
+
+## 📊 GitHub Activity and Contribution Streak
+
+
+
+ 
+
+
+
+---
+
+
+
+## 🤝 Let's Build Something Great Together
+
+
+
+I am always open to collaborating on **Flutter mobile apps, SaaS and enterprise dashboards, scalable Figma design systems, and open-source UI kits**.
+
+
+
+| 🌐 **Portfolio Website** | 💼 **LinkedIn Profile** | 🎨 **Dribbble Shots** | ✉️ **Direct Email** |
+
+| :---: | :---: | :---: | :---: |
+
+| [sohelranasr.framer.website](https://sohelranasr.framer.website/) | [linkedin.com/in/sohelvector](https://linkedin.com/in/sohelvector) | [dribbble.com/sohelvector](https://dribbble.com/sohelvector) | [rtrmdsohelrana@gmail.com](mailto:rtrmdsohelrana@gmail.com) |
 
