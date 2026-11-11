@@ -12,7 +12,7 @@
 
 
 
-[](https://sohelranasr.framer.website/) [](https://linkedin.com/in/sohelvector) [](https://dribbble.com/sohelvector) [](mailto:rtrmdsohelrana@gmail.com)
+[](https://linkedin.com/in/sohelvector) [](https://dribbble.com/sohelvector) [](mailto:rtrmdsohelrana@gmail.com)
 
 
 
@@ -61,9 +61,6 @@
 | Designed multi-user, role-based KPI dashboards, CRM workflows, and manufacturing automation tools serving **500+ sales, operations, and management users**. | Architected end-to-end mobile order flows, real-time delivery tracking, and multi-location franchise operations dashboards. |
 
 | 📈 **Impact:** **30% faster** reporting workflows · **25% higher** operational efficiency | 📈 **Impact:** **22% lower** booking abandonment · Seamless multi-branch tracking |
-
-| [](https://sohelranasr.framer.website/) | [](https://sohelranasr.framer.website/) |
-
 
 
 | 📊 **SaaS Lead Management and Client Portals** | 📱 **Flutter UI Kits and Cross-Platform Apps** |
