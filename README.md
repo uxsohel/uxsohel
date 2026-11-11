@@ -147,5 +147,5 @@ I am always open to collaborating on **Flutter mobile apps, SaaS and enterprise 
 
 | :---: | :---: | :---: | :---: |
 
-| [sohelranasr.framer.website](https://sohelranasr.framer.website/) | [linkedin.com/in/sohelvector](https://linkedin.com/in/sohelvector) | [dribbble.com/sohelvector](https://dribbble.com/sohelvector) | [behance.net/sohelvector](https://www.behance.net/sohelvector) |
+| [linkedin.com/in/sohelvector](https://linkedin.com/in/sohelvector) | [dribbble.com/sohelvector](https://dribbble.com/sohelvector) | [behance.net/sohelvector](https://www.behance.net/sohelvector) |
 
